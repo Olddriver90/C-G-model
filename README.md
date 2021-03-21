@@ -1,2 +1,2 @@
-# C-G-model
-This is a isotopic evaporation model.
+# water isotopes
+This is a repository about isotope models.
